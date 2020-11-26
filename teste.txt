@@ -1,0 +1,11 @@
+ O volume na unidade D ‚ Novo volume
+ O N£mero de S‚rie do Volume ‚ 3EF5-7861
+
+ Pasta de D:\Git\CursoAtos
+
+26/11/2020  20:34    <DIR>          .
+26/11/2020  20:34    <DIR>          ..
+26/11/2020  20:19                11 README.md
+26/11/2020  20:34                 0 teste.txt
+               2 arquivo(s)             11 bytes
+               2 pasta(s)   999.084.548.096 bytes dispon¡veis
