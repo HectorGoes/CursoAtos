@@ -117,8 +117,8 @@ a {
 }
 
 .item-name{
-    width: 25px;
-    height: 1.7em;
+    font-size: 25px;
+    margin-top: 1.7em;
 }
 
 .contact-sec{
