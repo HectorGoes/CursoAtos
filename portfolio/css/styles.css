@@ -49,10 +49,10 @@ html, body {
     height: 2.4em;
     margin-bottom: 60px;
     font-family: 'Space Grotesk', sans-serif;
-    color: #9b0000;
+    color: #fcfcfc;
     cursor: pointer;
     border-radius: 8px;
-    background-color: transparent;
+    background-color: #9b0000;
     font-size: 16px;
     transition-property: border, background-color;
     transition-duration:  150ms;
@@ -64,7 +64,7 @@ html, body {
     background-color: #9b0000;
 }
 
-a {
+.btn-a {
     text-decoration: none;
     color: rgb(255, 254, 254);
 }
@@ -122,7 +122,7 @@ a {
 }
 
 .contact-sec{
-    min-height: 30em;
+    min-height: 40em;
     background: -webkit-gradient(
         linear,
         left top,
@@ -180,4 +180,31 @@ a {
 
 .contact-sec .section-header{
     color: black;
+}
+
+.footer{
+    background-color: white;
+    text-align: center;
+    padding: 2.5em 0;
+    font-size:  30px;
+}
+
+.social-list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 2em 0 0;
+    padding: 0;
+}
+
+.list-item{
+    margin: 0.5em;
+
+}
+
+.item-link{
+    text-decoration: none;
+    color: red;
+    padding: .5em
+    ;
 }
