@@ -112,13 +112,13 @@ html, body {
 }
 
 .item-logo{
-    width: 15em;
-    height: 15em;
+    width: 11em;
+    height: 11em;
 }
 
 .item-name{
-    font-size: 25px;
-    margin-top: 1.7em;
+    font-size: 18px;
+    margin-top: 1.5em;
 }
 
 .contact-sec{
@@ -185,7 +185,7 @@ html, body {
 .footer{
     background-color: white;
     text-align: center;
-    padding: 2.5em 0;
+    padding: 0.5em 0;
     font-size:  30px;
 }
 
